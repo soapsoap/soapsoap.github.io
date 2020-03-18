@@ -1,2 +1,2 @@
 # Hello world
-random 
+Hi there (Click here for example page)(/example) boop
